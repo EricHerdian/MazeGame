@@ -2,6 +2,8 @@
 
 A simple maze game, where players must navigate the maze to proceed to the next level.
 
+![image](https://github.com/EricHerdian/MazeGame/assets/86960299/36163347-90ef-4b28-913a-09aff2da0ee8)
+
 ---
 
 > [!NOTE]
